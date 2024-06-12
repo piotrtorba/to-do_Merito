@@ -1,0 +1,118 @@
+* {
+    margin: 0px;
+    outline: 0px;
+    padding: 0px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+b {
+    padding: 2px;
+    background-color: rgb(147, 148, 151);
+}
+
+#logo {
+    display: block;
+    margin: 3vh 1vw;
+    height: 10vh;
+    width: 25vw;
+}
+
+.form {
+    text-align: center;
+}
+
+.dform {
+    margin-left: 20px;
+    margin-top: 300px;
+
+}
+
+.label {
+    display: inline-block;
+}
+
+.text {
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.zarejHEAD {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+
+.submit {
+    margin: 5px 5px;
+    cursor: pointer;
+}
+select {
+    padding-left: 2px;
+    padding-right: 2px;
+    margin: 3px;
+}
+
+#dtitle {
+    margin-bottom: 3px;
+    margin-top: 3px;
+    text-decoration: underline;
+}
+
+button {
+    padding: 3px 2px 3px 2px;
+    cursor: pointer;
+}
+
+.task_cell {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+}
+
+.options {
+    float: right;
+    width: 300px;
+}
+
+#exit {
+    background-color: #f2f2f2;
+    height: 40px;
+    width: 5vw;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.error {
+    position: absolute;
+    left: 45%;
+    top: 24%;
+}
+.ulabel {
+    display: inline-block;
+    width: 90px;
+}
+#utitle {
+    font-weight: bold;
+    position: absolute;
+    left: 47%;
+    top: 20%;
+}
+.wylogowany {
+    text-align: center;
+
+    margin-top: 30vh;
+    
+}
+.login {
+    display: flex;
+    justify-content: center;
+}
