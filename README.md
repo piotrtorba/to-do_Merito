@@ -10,7 +10,7 @@ Aby korzystać z aplikacji 'To Do List' w przeglądarce w systemie Windows nale�
 
 Do testowania aplikacji lokalnie w przeglądarce należy wejść na adres URL: localhost/signup.php po skopiowaniu wszystkich plików do foldera serwera www (XAMPP dla Windows, Apache dla Linux /var/www/html/).
 
-Autor: Piotr Torba, email: wwx11875@student.warszawa.merito.pl
+Autor: Piotr Torba
 
 ---------------- English -----------------------------
 
@@ -23,4 +23,4 @@ To use the 'To Do List' application in a browser on Windows you need to install 
 
 To test the application locally in a browser, go to the URL: localhost/signup.php after copying all files to the web server folder (XAMPP for Windows, Apache for Linux /var/www/html/).
 
-Author: Piotr Torba, email: wwx11875@student.warszawa.merito.pl
+Author: Piotr Torba
